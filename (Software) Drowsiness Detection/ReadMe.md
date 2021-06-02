@@ -18,12 +18,18 @@ User can edit and can also save the edited image with a single click.
 
 
 # Some ScreenShots of the working model
+
 Home Window
+
 ![image](https://user-images.githubusercontent.com/63657713/120405598-8af00b80-c366-11eb-9957-bc0ca64e5da7.png)
 
+
 Inside Edit Button
+
 ![image](https://user-images.githubusercontent.com/63657713/120405811-0ce03480-c367-11eb-9b95-55811037ae00.png)
 
+
 When any Editing button Clicked. (in this case 'Gray')
+
 ![image](https://user-images.githubusercontent.com/63657713/120405948-621c4600-c367-11eb-813d-b3b74ee4aceb.png)
 
